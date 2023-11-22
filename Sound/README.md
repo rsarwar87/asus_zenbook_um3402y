@@ -1,6 +1,10 @@
+## disclaimeri
+this patch was originally posted here: https://github.com/thor2002ro/asus_zenbook_ux3402za/
+patch for AMD/I2C interfaced chip was posted here: https://gist.github.com/lamperez/862763881c0e1c812392b5574727f6ff?permalink_comment_id=4727352#gistcomment-4727352 
+
 # asus_zenbook_ux3402za
 
-> You must **disable Secure Boot** from BIOS before attempting this fix. Also, Secure Boot must remain disabled afterwards for the sound to continue to work.
+> You must **disable Secure Boot** from BIOS and fast boot from windows before attempting this fix. Also, Secure Boot must remain disabled afterwards for the sound to continue to work. Shutdown from windows, not restart.
 
 Steps for the sound fix:
 
